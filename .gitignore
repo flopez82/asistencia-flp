@@ -1,0 +1,5 @@
+.env
+asistencia.db
+uploads/
+node_modules/
+*.log
